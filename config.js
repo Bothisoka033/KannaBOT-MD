@@ -51,26 +51,26 @@ global.sdc = 'https://discord.gg/WEJQjugTY7'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085712420674'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085712420674'
-global.ppulsa2 = '083143393763'
-global.psaweria = 'https://saweria.com/kannabotz'
+global.pdana = '081233738677'
+global.povo = '_'
+global.pgopay = '081233738677'
+global.ppulsa = '081233738677'
+global.ppulsa2 = '081381128083'
+global.psaweria = 'https://saweria.com/Fikrii21'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283143393763'
-global.nomorown = '62831433937633'
-global.namebot = 'Kanna BOT'
-global.nameown = 'Letta - Sama'
+global.nomorbot = '6289513223760'
+global.nomorown = '6281233738677'
+global.namebot = '𝚈𝚞𝚔𝚒𝚗𝚒𝚔𝚘 - 𝙱𝚘𝚝'
+global.nameown = '𝙵𝚒𝚔𝚛𝚒𝚒𝚂𝚔𝚢'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
-  ['18126338970'],
-  ['62831433937633', 'LETTA ! 🐰', true]
+  ['6281233738677'],
+  ['6281233738677'],
+  ['6281233738677'],
+  ['6281233738677', '𝙵𝚒𝚔𝚛𝚒𝚒𝚂𝚔𝚢 !', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -101,7 +101,7 @@ global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://api.xteam.xyz': 'APIKEY',
   'https://anabotofc.herokuapp.com/': 'APIKEY',
-  'https://api.lolhuman.xyz': 'APIKEY',
+  'https://api.lolhuman.xyz': 'Fiktod',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
@@ -116,13 +116,13 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '                「 Ƙαnnα BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Ƙαnnα 𝗕𝗢𝗧'
+global.wm = '                「 𝚈𝚞𝚔𝚒𝚗𝚒𝚔𝚘 𝙱𝚘𝚝⁩ 」' //Main Watermark
+global.wm2 = '𝚈𝚞𝚔𝚒𝚗𝚒𝚔𝚘 - 𝙱𝚘𝚝'
+global.wm3 = '⫹⫺ 𝚈𝚞𝚔𝚒𝚗𝚒𝚔𝚘 𝙱𝚘𝚝'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
-global.author = '                「 Ƙαnnα BOT あ⁩ 」'
+global.author = '                「 𝚈𝚞𝚔𝚒𝚗𝚒𝚔𝚘 𝙱𝚘𝚝⁩ 」'
 
 
 /*============== LOGO ==============*/
@@ -176,7 +176,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\n𝗞\na\nn\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎\n𝚈\n𝚄\n𝙺\n𝙸\n𝙽\n𝙸\n𝙺\n𝙾 -\n𝙱\n𝚘\n𝚝\n Whatsapp BOT\nwa.me/${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
